@@ -63,7 +63,7 @@ var switchMenuToActive = function () {
 // On page load (before images or CSS)
 document.addEventListener("DOMContentLoaded", function (event) {
 
-// TODO: STEP 0: Look over the code from
+// TODO: STEP 0: Look over the  from
 // *** start ***
 // to
 // *** finish ***
